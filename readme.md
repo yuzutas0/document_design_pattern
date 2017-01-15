@@ -23,17 +23,17 @@ Aのように更新される「レコード」のような情報は分けて管�
 
 ## How to increment DDP 
 
-1. 論点を整理する
-    - 各種設計手法を洗い出す。
-    - ドキュメント構成・管理の課題を洗い出す。
-    - 適用方法を模索する。
-2. 有効性を検証する
-    - 取り組み、成功・失敗の事例を集める。
-    - 成功パターン・アンチパターンを分類する。
+1. [論点を整理する](1_hypothesis)
+    - [ドキュメント構成・管理の課題を洗い出す](1_hypothesis/1_problem_of_document)
+    - [ソフトウェア開発・設計の各種手法を洗い出す](1_hypothesis/2_solution_of_engineering)
+    - [適用方法を模索する](1_hypothesis/3_adapt_solution_to_problem)
+2. [有効性を検証する](2_effectiveness)
+    - [取り組み、成功、失敗の事例を集める](2_effectiveness/1_case_study)
+    - [成功パターン・アンチパターンを分類する](2_effectiveness/2_classified_knowledge)
 
 ## Contribution
 
-- Gitter/Slack（Todo:作成）でのディスカッション
 - Issueでのディスカッション
 - Fork -> Commit -> PullRequest
   - PRでのディスカッション
+- Gitter/Slack（Todo:作成）でのディスカッション
