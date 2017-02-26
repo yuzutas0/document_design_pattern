@@ -16,4 +16,3 @@ https://ja.wikipedia.org/wiki/Model_View_Controller
 2. view: 報告用資料など
 3. controller: 作業テンプレートなど
   - modelやviewを更新・出力する手順自体を内包する
-
