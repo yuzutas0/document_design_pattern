@@ -4,7 +4,7 @@
 
 > 唯一の存在を保証する
 
-http://www.techscore.com/tech/DesignPattern/Adapter/Adapter1.html/
+http://www.techscore.com/tech/DesignPattern/Singleton.html/
 
 ---
 
